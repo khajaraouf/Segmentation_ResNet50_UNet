@@ -10,9 +10,7 @@ In this code, we are going to implement the most widely used image segmentation 
 
 # Architecture
 
-
-
-
+![resnet50_encoder](https://github.com/khajaraouf/Segmentation_ResNet50_UNet/assets/70451209/221081e1-6c0e-4aae-83ab-cdb44e35de91)
 
 # Reference Papers
 
